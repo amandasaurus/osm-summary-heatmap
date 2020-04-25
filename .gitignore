@@ -1,0 +1,10 @@
+*.osm.pbf
+*.tiff
+*.png
+colour_ramp*.txt
+*.aux.xml
+water-polygons-*
+points_*.zip
+tmp.*
+.*.swp
+list_values_*.txt
